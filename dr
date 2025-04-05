@@ -1,3 +1,0 @@
-repeat task.wait()
-until game:IsLoaded()
-game.Players.LocalPlayer:Kick("Skull hub is Skidded Asf")
